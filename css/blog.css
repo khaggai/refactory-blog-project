@@ -11,3 +11,26 @@
     padding-left: 0px;
     padding-right: 0px;
 }
+.contact-form {
+    padding-top: 15px;
+    padding-left: 100px;
+  }
+  
+  /* Add CSS for <input> and <textarea> tags */
+  .input, textarea{
+    width:min-content;
+    margin-top: 0px; 
+    margin-bottom: 10px;
+    padding: 10px;
+    font-size: 16px;
+    border: 1px solid #dee7ec;
+  }
+  
+  /* Add CSS for contact-submit */
+  .contact-submit{
+    background-color: #dee7ec;
+    color: #889eab;
+  }
+.message{
+  margin-top: 10px;  
+}
