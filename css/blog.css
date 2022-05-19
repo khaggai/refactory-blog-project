@@ -34,3 +34,29 @@
 .message{
   margin-top: 10px;  
 }
+
+/* css for about me page footer*/
+.footer {
+  background-color: #2f5167;
+  color: #fff;
+  height: 120px;
+  padding: 40px;
+  margin: 10px 0px 0px 0px;
+}
+
+.footer-logo {
+  float: left;
+  font-size: 32px;
+}
+
+.footer-list {
+  float: right;
+}
+
+.footer-list li {
+  padding-bottom: 20px;
+}
+
+#about-me-body{
+  background-color: rgb(179, 225, 226)
+}
